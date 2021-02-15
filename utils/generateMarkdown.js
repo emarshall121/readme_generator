@@ -14,6 +14,8 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `#Title of Application: ${data.title}
 
+[![Image from Gyazo](https://i.gyazo.com/118297f2274b3547efb6a05d298f5081.gif)](https://gyazo.com/118297f2274b3547efb6a05d298f5081)
+
 ## Description
 ${data.description}
 

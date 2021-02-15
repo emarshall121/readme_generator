@@ -34,11 +34,6 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'tableOfContents',
-    message: 'Enter your table of contents.',
-  },
-  {
-    type: 'input',
     name: 'installation',
     message: 'Enter the installation instructions.',
   },
